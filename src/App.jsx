@@ -63,7 +63,7 @@ function App() {
             <a href="#projects" className="btn btn-primary">View My Work</a>
           </div>
           <div className="hero-image">
-            <img src="/hero_architecture.png" alt="Futuristic AI Architecture Diagram" />
+            <img src="/profile.jpg" alt="Nitish Pattar" className="profile-img" />
           </div>
         </section>
 
