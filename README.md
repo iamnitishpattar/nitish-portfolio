@@ -5,7 +5,7 @@ Welcome to the repository for my personal portfolio website!
 ## Overview
 This is a modern, responsive personal portfolio built to showcase my skills, projects, and contact information. It features a sleek dark mode design, advanced glassmorphism, glowing neon accents, and smooth micro-animations.
 
-**Live Demo:** [Deploying Soon]
+**Live Demo:** https://nitish-portfolio-amber.vercel.app/
 
 ## 🛠️ Tech Stack
 - **Framework**: React + Vite
