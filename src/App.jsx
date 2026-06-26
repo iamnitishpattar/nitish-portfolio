@@ -4,27 +4,34 @@ import './index.css';
 const projects = [
   {
     id: 1,
+    title: 'CloudOps: Automated Deployment & Monitoring',
+    description: 'An enterprise-grade cloud infrastructure platform that automates deployment, monitoring, and alerting of AWS EC2 instances with a single click.',
+    tech: ['Python', 'AWS', 'Docker', 'Terraform', 'Prometheus', 'Grafana'],
+    github: 'https://github.com/iamnitishpattar/aws-cloud-ops-dashboard'
+  },
+  {
+    id: 2,
     title: 'HelixVault',
     description: 'A cloud-deployed full-stack app that encodes files into DNA sequences, simulates biological mutations, and recovers data using Reed-Solomon Error Correction.',
     tech: ['React', 'Next.js', 'FastAPI', 'Python'],
     github: 'https://github.com/iamnitishpattar/HelixVault'
   },
   {
-    id: 2,
+    id: 3,
     title: 'Financial Market News Sentiment Analysis',
     description: 'An end-to-end Machine Learning project that performs Sentiment Analysis on financial market news headlines using NLP and a Random Forest Classifier to predict stock market movements.',
     tech: ['Python', 'Jupyter', 'Scikit-learn', 'NLP', 'Random Forest'],
     github: 'https://github.com/iamnitishpattar/Financial-Market-News-Sentiment-Analysis'
   },
   {
-    id: 3,
+    id: 4,
     title: 'Real Estate Price Prediction',
     description: 'An analytical web application featuring interactive charts and a prediction form to forecast real estate prices using historical market data and XGBoost.',
     tech: ['Python', 'Flask', 'XGBoost', 'Machine Learning'],
     github: 'https://github.com/iamnitishpattar/-real-estate-price-prediction-'
   },
   {
-    id: 4,
+    id: 5,
     title: 'SMS Spam Classifier',
     description: 'A beginner-friendly Natural Language Processing project that classifies SMS messages as spam or ham using TF-IDF and Naive Bayes, complete with a modern Flask web interface.',
     tech: ['HTML', 'Flask', 'NLP', 'Naive Bayes', 'TF-IDF'],
